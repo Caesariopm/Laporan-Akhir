@@ -19,6 +19,8 @@ public class cekAngka07340 {
         }else {
             System.out.println("GANJIL");
         }
+        
+        System.out.println("tes mecel");
     }
-  
+    
 }
